@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "title": "Pariatur Ducimus d",
+      "body": "Rerum cumque molesti",
+      "userId": 1,
+      "id": "244f"
+    },
+    {
+      "id": "3780",
+      "title": "Repellendus Velit ",
+      "body": "Est blanditiis facil",
+      "userId": 0
+    },
+    {
+      "id": "33c5",
+      "title": "hello",
+      "body": "hello body",
+      "userId": 2
+    },
+    {
+      "id": "ee8f",
+      "title": "new one",
+      "content": "created one",
+      "userId": "1"
+    },
+    {
+      "id": "2e7e",
+      "title": " update",
+      "content": " update",
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1f96",
+      "username": "mgmg",
+      "email": "mgmg2025@gmail.com",
+      "password": "$2a$10$C1u6Ge/5EXEHJgjWO7BrjuSJCYPY/kHf8HvXmK4eygVX6uudILob."
+    },
+    {
+      "id": "0df6",
+      "username": "katutumov",
+      "email": "tigimicuv@mailinator.com",
+      "password": "$2a$10$PzQbA7SfKIpU6cSbjQlTruw2nNV6F6RVQvEsRLAaXGtdVJenHlszq"
+    },
+    {
+      "id": "ccbe",
+      "email": "koko@gmail.com",
+      "password": "$2b$10$QfKLyUZKhLUvvMafARuBsuul0IpcyybLPQQA8vRHfILK27v1aPZp2"
+    },
+    {
+      "id": "0bcf",
+      "username": "mgmg",
+      "email": "mgmg@gmail.com",
+      "password": "$2b$10$2AYYsOiKldvD7LGVyUne6O50x0ZNlFV/utb8AAbxEYOdT.ZUmV8Pe"
+    },
+    {
+      "id": "6e58",
+      "username": "bobo",
+      "email": "bobo@gmail.com",
+      "password": "$2b$10$mAlmNy.R921kIIJOzvB0gepF2f/B8TwlATPBm57ZfmGG6wcwImMvK"
+    },
+    {
+      "id": "6e1c",
+      "username": "bobo",
+      "email": "bobo1@gmail.com",
+      "password": "$2b$10$OJYQ4OnN/c1OtTosDhLiJOmaarl.BMW5rlwfFjJokKXMp7NPmkxNS"
+    }
+  ],
+  "customers": [
+    {
+      "id": "2",
+      "name": "ni ni edit two time",
+      "phone": "09123456789",
+      "address": "No.123, Yangon"
+    },
+    {
+      "id": "dc5c",
+      "name": "Mg Mg update",
+      "phone": "09123456789",
+      "address": "No.123, Yangon"
+    },
+    {
+      "id": "f66f",
+      "name": "ni ni ",
+      "phone": "09123456789",
+      "address": "No.123, Yangon"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "Books two updated",
+      "slug": "books",
+      "description": "Books and publications",
+      "isActive": true,
+      "createdAt": "2024-01-20T10:01:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Books",
+      "slug": "books",
+      "description": "Books and publications",
+      "isActive": true,
+      "createdAt": "2024-01-20T10:02:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Sports",
+      "slug": "sports",
+      "description": "Sports equipment and gear",
+      "isActive": true,
+      "createdAt": "2024-01-20T10:03:00Z"
+    },
+    {
+      "id": "f841",
+      "name": "Books one",
+      "slug": "books",
+      "description": "Books and publications",
+      "isActive": true
+    },
+    {
+      "id": "29da",
+      "name": "Books two",
+      "slug": "books",
+      "description": "Books and publications",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "title": "Product 2",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "id": "3",
+      "title": "edit",
+      "description": "edit ",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    },
+    {
+      "id": "595d",
+      "title": "Dolorem excepteur co",
+      "description": "Reprehenderit placea",
+      "price": 624,
+      "stock": "31",
+      "image": null
+    },
+    {
+      "id": "640c",
+      "title": "Praesentium vitae vo",
+      "description": "At delectus est sed",
+      "price": 171,
+      "stock": "4",
+      "image": "Velit eveniet non n"
+    },
+    {
+      "id": "c464",
+      "title": "new",
+      "description": "new ",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    },
+    {
+      "id": "7bd7",
+      "title": "new one",
+      "description": "new one",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    },
+    {
+      "id": "eedf",
+      "title": "new one",
+      "description": "new one",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    }
+  ],
+  "orders": [
+    {
+      "id": "2",
+      "orderId": "002",
+      "customerName": "Ko Ko",
+      "productName": "laptop",
+      "quantity": "1",
+      "totalPrice": "2600",
+      "status": "pending"
+    },
+    {
+      "id": "4664",
+      "customerName": "Ko Ko",
+      "productName": "phone",
+      "quantity": "1"
+    },
+    {
+      "id": "880d",
+      "customerName": "ni ni",
+      "productName": "phone",
+      "quantity": "1"
+    }
+  ]
+}
